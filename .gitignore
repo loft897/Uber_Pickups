@@ -1,4 +1,8 @@
+uber_pickups.ipynb
+translation_fr.txt
+assets/uber-data-trip
 # Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
